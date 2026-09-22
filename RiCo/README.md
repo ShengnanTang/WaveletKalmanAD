@@ -1,4 +1,4 @@
-他# Residuals In Context: Dual-Criterion Modeling for Time-Series Anomaly Detection
+Residuals In Context: Dual-Criterion Modeling for Time-Series Anomaly Detection
 
 **This code is the official PyTorch implementation of our paper: _Residuals In Context: Dual-Criterion Modeling for Time-Series Anomaly Detection_.**
 
